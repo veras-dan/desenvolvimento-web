@@ -41,7 +41,7 @@ Contribuições são sempre bem-vindas!
  
 ## Autores
 
-<a href="https://github.com/verasdan">
+<a href="https://github.com/veras-dan">
  <img style="border-radius: 50%;" src="https://media.discordapp.net/attachments/891798888594436199/980284436954357780/perfil_dan.jpg?width=406&height=406" width="100px;" alt="foto"/>
  <br />
  <sub><b>Dan Veras</b></sub></a> <a href="https://github.com/veras-dan" title="">🚀</a>
