@@ -1,46 +1,43 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
 # Desenvolvimento Web
 
-Repositório para projeitos simples de Hmtl e Css
+Repositório para projeitos simples de Hmtl e Css.
 
 ## Repositórios
 
 - [Cardápio Café Menu]()
-- [Flexbox]()
-- [Formulário]()
-- [Grid-Layout]()
 - [Menu Lateral]()
 - [Menu Horizontal]()
 
+## Pré-requisitos
 
-## Landing Pages
-- [Em construção]()
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+ - [Git](https://git-scm.com).
+
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 ## Rodando localmente
 
-Clone o projeto
+Clone o projeto:
 
 ```bash
   git clone https://github.com/veras-dan/desenvolvimento-web
 ```
 
-Entre no diretório do projeto
+Entre no diretório do projeto:
 
 ```bash
-  cd my-project
+  cd desenvolvimento-web
 ```
 
 ## Contribuindo
 
 Contribuições são sempre bem-vindas!
 
-Veja `contribuindo.md` para saber como começar.
-
-Por favor, siga o `código de conduta` desse projeto.
-
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este `[guia de como contribuir no GitHub](./CONTRIBUTING.md)
  
 ## Autores
 
@@ -50,6 +47,7 @@ Por favor, siga o `código de conduta` desse projeto.
  <sub><b>Dan Veras</b></sub></a> <a href="https://github.com/veras-dan" title="">🚀</a>
  <br />
 
+---
   [![Twitter Badge](https://img.shields.io/badge/-@veras_dan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/veras_dan)](https://twitter.com/veras_dan) [![Linkedin Badge](https://img.shields.io/badge/-Danilo_Veras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verasdanilo/)](https://www.linkedin.com/in/verasdanilo/) 
   [![Gmail Badge](https://img.shields.io/badge/-dveras1623@gmail.com-FF3333?style=flat-square&logo=gmail&logoColor=white&link=mailto:dveras1623@gmail.com)](mailto:dveras1623@gmail.com)
 
@@ -57,7 +55,3 @@ Por favor, siga o `código de conduta` desse projeto.
 ## Suporte
 
 Para suporte, mande um email para dveras1623@gmail.com.
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
