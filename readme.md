@@ -15,8 +15,6 @@ Repositório para projeitos simples de Hmtl e Css
 - [Menu Lateral]()
 - [Menu Horizontal]()
 
-## Portfólio
-- [Em construção]()
 
 ## Landing Pages
 - [Em construção]()
