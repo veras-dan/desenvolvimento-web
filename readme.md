@@ -36,11 +36,13 @@ Entre no diretório do projeto:
 
 - Feitos com JavaScript
   - [Login Screen League of Legends](https://github.com/veras-dan/login-screen-league-of-legends)
+  - [Lista de Contatos](https://github.com/veras-dan/lista_contatos)
+  - [Github Finder](https://github.com/veras-dan/github-finder)
   - [Mario Jump](https://github.com/veras-dan/mario-jump)
   - [Simple Player](https://github.com/veras-dan/simple-player)
   - [Buscador de CEP](https://github.com/veras-dan/cep-searcher)
   - [Relógio Analógico](https://github.com/veras-dan/analog-clock)
-  -[Github Finder](https://github.com/veras-dan/github-finder)
+  
 
 ---
 
