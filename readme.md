@@ -42,6 +42,8 @@ Entre no diretório do projeto:
   - [Simple Player](https://github.com/veras-dan/simple-player)
   - [Buscador de CEP](https://github.com/veras-dan/cep-searcher)
   - [Relógio Analógico](https://github.com/veras-dan/analog-clock)
+  - [Dark-mode](https://github.com/veras-dan/theme-js)
+  - [lâmpada JS](https://github.com/veras-dan/lampada-js)
   
 
 ---
