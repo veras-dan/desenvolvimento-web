@@ -1,62 +1,39 @@
 # Desenvolvimento Web
 
-Repositório para projeitos simples de Hmtl e Css.
+Repositório para listagem do meus projetos.
 
-## Repositórios
+## Repositórios em HTML e CSS
 
-- [Cardápio Café Menu]()
-- [Menu Lateral]()
-- [Menu Horizontal]()
+- [Cardápio Café Menu](https://github.com/veras-dan/basic-cafe-menu)
+- [Menu Lateral](https://github.com/veras-dan/menu_lateral)
+- [Menu Horizontal](https://github.com/veras-dan/menu_horizontal)
+- [Analog-Clock](https://github.com/veras-dan/analog-clock)
+- [Cred Card Glassmorphism](https://github.com/veras-dan/credit-card-https://github.com/veras-dan/credit-card-glassmorphism)
+
+## Repositórios em JavaScript
+- [Login Screen League of Legends](https://github.com/veras-dan/login-screen-league-of-legends)
+- [Lista de Contatos](https://github.com/veras-dan/lista_contatos)
+- [Github Finder](https://github.com/veras-dan/github-finder)
+- [Simple Player](https://github.com/veras-dan/simple-player)
+- [Buscador de CEP](https://github.com/veras-dan/cep-searcher)
+- [Relógio Analógico](https://github.com/veras-dan/analog-clock)
+- [Dark-mode](https://github.com/veras-dan/theme-js)
+- [lâmpada JS](https://github.com/veras-dan/lampada-js)
+- [Cronômetro](https://github.com/veras-dan/cronometro-js)
+
+## Repositórios em Python
+- [Hello-Django](https://github.com/veras-dan/hello-django)
+- [Gestão-Clientes](https://github.com/veras-dan/gestao_clientes)
+
+## Repositórios em Node-js
+- [Node-js](https://github.com/veras-dan/node-js)
 
 
-
-## Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
- - [Git](https://git-scm.com).
-
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
-
-## Rodando localmente
-
-Clone o projeto:
-
-```bash
-  git clone https://github.com/veras-dan/desenvolvimento-web
-```
-
-Entre no diretório do projeto:
-
-```bash
-  cd desenvolvimento-web
-```
----
-
-## Projetos Adicionais
-
-- Feitos com JavaScript
-  - [Login Screen League of Legends](https://github.com/veras-dan/login-screen-league-of-legends)
-  - [Lista de Contatos](https://github.com/veras-dan/lista_contatos)
-  - [Github Finder](https://github.com/veras-dan/github-finder)
-  - [Mario Jump](https://github.com/veras-dan/mario-jump)
-  - [Simple Player](https://github.com/veras-dan/simple-player)
-  - [Buscador de CEP](https://github.com/veras-dan/cep-searcher)
-  - [Relógio Analógico](https://github.com/veras-dan/analog-clock)
-  - [Dark-mode](https://github.com/veras-dan/theme-js)
-  - [lâmpada JS](https://github.com/veras-dan/lampada-js)
+## Repositórios de games
+- [Mario Jump](https://github.com/veras-dan/mario-jump) - JavaScript
   
 
 ---
-
-## Contribuindo
-
-Contribuições são sempre bem-vindas!
-
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
  
 ## Autores
 
