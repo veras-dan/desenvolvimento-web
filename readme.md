@@ -14,10 +14,11 @@ Repositório para listagem do meus projetos.
 - [Login Screen League of Legends](https://github.com/veras-dan/login-screen-league-of-legends)
 - [Lista de Contatos](https://github.com/veras-dan/lista_contatos)
 - [Github Finder](https://github.com/veras-dan/github-finder)
-- [Simple Player](https://github.com/veras-dan/simple-player)
+- [Projeto-Pokemon](https://veras-dan.github.io/projeto-pokemon-mapadev-week/)
+- [Dark-mode](https://github.com/veras-dan/theme-js)
 - [Buscador de CEP](https://github.com/veras-dan/cep-searcher)
 - [Relógio Analógico](https://github.com/veras-dan/analog-clock)
-- [Dark-mode](https://github.com/veras-dan/theme-js)
+- [Simple Player](https://github.com/veras-dan/simple-player)
 - [lâmpada JS](https://github.com/veras-dan/lampada-js)
 - [Cronômetro](https://github.com/veras-dan/cronometro-js)
 
