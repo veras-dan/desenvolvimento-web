@@ -32,6 +32,7 @@ Repositório para listagem do meus projetos.
 
 ## Repositórios de games
 - [Mario Jump](https://github.com/veras-dan/mario-jump) - JavaScript
+- [Frogger Gamer](https://github.com/veras-dan/frogger-gamer) - JavaScript
   
 
 ---
